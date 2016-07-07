@@ -14,4 +14,4 @@ In Layout xml,
 ```
 
 # **Output**
-![alt tag]()
+![alt tag](https://github.com/maheswaranapk/Moving-Circles-Loader/blob/master/sample/ezgif.com-gif-maker.gif)
